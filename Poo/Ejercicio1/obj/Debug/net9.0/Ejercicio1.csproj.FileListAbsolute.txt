@@ -1,0 +1,15 @@
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/bin/Debug/net9.0/Ejercicio1
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/bin/Debug/net9.0/Ejercicio1.deps.json
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/bin/Debug/net9.0/Ejercicio1.runtimeconfig.json
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/bin/Debug/net9.0/Ejercicio1.dll
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/bin/Debug/net9.0/Ejercicio1.pdb
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/Ejercicio1.AssemblyInfoInputs.cache
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/Ejercicio1.AssemblyInfo.cs
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/Ejercicio1.sourcelink.json
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/Ejercicio1.dll
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/refint/Ejercicio1.dll
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/Ejercicio1.pdb
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/Ejercicio1.genruntimeconfig.cache
+/home/andy/Documents/Uniminuto tareas]/Poo/Ejercicio1/obj/Debug/net9.0/ref/Ejercicio1.dll
